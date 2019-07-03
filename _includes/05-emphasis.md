@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I learn a lot**
+
+__daiban__
+
+__Headers__
+
+__Lists__
+
+__Bold and Italic__
+
+_links and imagines_
